@@ -6,5 +6,5 @@ function areaQuadrado (lado){
     return lado**2;
 }
 console.log (areaQuadrado(6));
-console.log(areaQuadrado(20; 20));
+console.log(areaQuadrado(20, 20));
 document write (quanto);
