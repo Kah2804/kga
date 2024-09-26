@@ -5,3 +5,9 @@ function areaQuadrado (lado){
     return lado**2;
 }
 console.log(areaQuadrado(area));
+let quanto = parseInt(prompt("insira um número igual"));
+document.write (quanto1);
+let quanto = parseInt(prompt("insira um número igual"));
+document.write (quanto2);
+let quanto = parseInt(prompt("insira um número igual"));
+document.write (quanto3);
