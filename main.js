@@ -1,10 +1,7 @@
-function soma (num1,num2){
-    return num1 + num2; 
-}
-console.log (soma (1,2));
-function areaQuadrado (lado1){
+alert("kalliani 19 giovanna 41")
+let area=parseInt (prompt(area))
+document.write(area)
+function areaQuadrado (lado){
     return lado**2;
 }
-console.log (soma(1,4));
-console.log(areaQuadrado(20, 20));
-document write (quanto);
+console.log(areaQuadrado(area))
